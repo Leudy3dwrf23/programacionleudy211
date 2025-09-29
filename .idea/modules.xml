@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/fundamentos/fundamentos2/cadenas.iml" filepath="$PROJECT_DIR$/fundamentos/fundamentos2/cadenas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentos2/cadenas1/cadenas1.iml" filepath="$PROJECT_DIR$/fundamentos2/cadenas1/cadenas1.iml" />
       <module fileurl="file://$PROJECT_DIR$/fundamentos/fundamentos.iml" filepath="$PROJECT_DIR$/fundamentos/fundamentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundamentos2/fundamentos2.iml" filepath="$PROJECT_DIR$/fundamentos2/fundamentos2.iml" />
       <module fileurl="file://$PROJECT_DIR$/negro.iml" filepath="$PROJECT_DIR$/negro.iml" />
     </modules>
   </component>
